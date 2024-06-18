@@ -1,4 +1,5 @@
 # header
 content
 
-![Uploading 68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f79616b746f6361742e706e67.png…]()
+![image](https://github.com/Mamoru-Ikegami/skills-communicate-using-markdown/assets/172012977/8cbcd024-fdbe-4b83-b12f-12814d1ac04a)
+
